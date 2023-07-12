@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Welcome
 
-Hi there 👋! I'm Chuhan, a Master's student in Computer Science at Yale, specializing in Deep Learning and AI. Prior to Yale, I graduated Summa Cum Laude from BU with a B.A. in Computer Science and Mathematics.
+Hi there 👋! I'm Chuhan, a Master's student in Computer Science at Yale, specializing in Deep Learning and AI. Prior to Yale, I graduated _Summa Cum Laude_ from BU with a B.A. in Computer Science and Mathematics.
 
 ## 🔭 Skills
 - **Programming**: Python, Java, SAS, R, SQL, C, Go
