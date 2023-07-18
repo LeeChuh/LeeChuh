@@ -43,5 +43,5 @@ Feel free to connect with me:
 
 📞 Phone: (617) 949-1865
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/chuhan-li/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/chuhan-li-9006a01b1/)
 
