@@ -35,6 +35,7 @@ Hi there 👋! I'm Chuhan, a Master's student in Computer Science at Yale, speci
 - Randomized Algorithms, Approximation Algorithms and Approximability
 - Convex Optimization, Combinatorial Optimization
 
+## 📫 Contact
 
 Feel free to connect with me:
 
