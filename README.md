@@ -28,7 +28,7 @@ Hi there 👋! I'm Chuhan, a Master's student in Computer Science at Yale, speci
 ## 🤔 Experience
 - **Boston University**: Undergraduate Researcher in _BlockChain Clustering using LLM_
 - **Boston University**: Undergraduate Researcher in _Fairness in k-clustering_
-- **NeuralIPS's Neural MMO Competition (2022)**: Ranked top 15% across around 300 teams
+- **NeuraIPS's Neural MMO Competition (2022)**: Ranked top 15% across around 300 teams
 
 ## 🌱 Interest
 - Machine Learning, Deep Learning, Graph Neural Network, Embedding, Explainability, Fairness
