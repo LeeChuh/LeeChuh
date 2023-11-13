@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 # Hi there 👋
-![](https://github.com/LeeChuh/LeeChuh/blob/master/figs/bg.jpg)
+![](https://github.com/LeeChuh/LeeChuh/blob/master/figs/bg.png)
 
 
 
