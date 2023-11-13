@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 # Welcome
 
+![](https://github.com/LeeChuh/LeeChuh/blob/master/figs/bg1.png)
+
 Hi there 👋! I'm Chuhan, a Master's student in Computer Science at Yale, specializing in Deep Learning and AI. Prior to Yale, I graduated _Summa Cum Laude_ from BU with a B.A. in Computer Science and Mathematics.
 
 ## 🔭 Skills
