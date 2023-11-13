@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 * 🎓   MSCS at Yale, graduate _summa cum laude_ at BostonU double majoring in CS and math, minor in philosophy.
 * 🧐   Interested in deep learning, foundation models, and AI applications.
-* 🦾   Recent focus on multi-modal LLM and reasoning over LLM.
+* 🦾   Recent focus on __multi-modal LLM__ and __reasoning over LLM__.
 * 🌱   Currently learning graph representation learning, foundation models.
-* ✍🏻   Teaching Fellow of CPSC 365: Algorithms at Yale 
+* ✍🏻   Teaching Fellow of CPSC 365: Algorithms at Yale.
+
