@@ -14,13 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/chuhan-li-9006a01b1/)
- 
+ ![](https://github.com/LeeChuh/LeeChuh/blob/master/figs/bg.png)
 -->
 
 
 # Hi there 👋
-![](https://github.com/LeeChuh/LeeChuh/blob/master/figs/bg.png)
-
+```
+                  ___                         ___     
+                 /\  \                       /\__\    
+      ___       /::\  \                     /:/ _/_   
+     /|  |     /:/\:\  \                   /:/ /\__\  
+    |:|  |    /:/ /::\  \   ___     ___   /:/ /:/ _/_ 
+    |:|  |   /:/_/:/\:\__\ /\  \   /\__\ /:/_/:/ /\__\
+  __|:|__|   \:\/:/  \/__/ \:\  \ /:/  / \:\/:/ /:/  /
+ /::::\  \    \::/__/       \:\  /:/  /   \::/_/:/  / 
+ ~~~~\:\  \    \:\  \        \:\/:/  /     \:\/:/  /  
+      \:\__\    \:\__\        \::/  /       \::/  /   
+       \/__/     \/__/         \/__/         \/__/    
+```
 * 🎓   MSCS at Yale, graduate _summa cum laude_ at BostonU double majoring in CS and math, minor in philosophy.
 * 🧐   Interested in deep learning, foundation models, and AI applications.
 * 🦾   Recent focus on __multi-modal LLM__ and __reasoning over LLM__.
